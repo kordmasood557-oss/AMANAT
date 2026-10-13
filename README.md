@@ -44,3 +44,8 @@ contracts/ قراردادهای هوشمند
 tests/ آزمایش‌ها
 SECURITY.md امنیت و گزارش آسیب‌پذیری
 GOVERNANCE.md قواعد نظارت و مسئولیت
+
+
+<img width="1254" height="1254" alt="file_00000000e244821094d0f21591cf6b3a" src="https://github.com/user-attachments/assets/5205125c-12ac-4042-a90e-6413f341bdcf" />
+
+
